@@ -1,6 +1,5 @@
 
 
-
 # Project Description
 
 Model Library is a my own library where I manually find the needed dataset, selecting the model and implementing these models to a interface where I am using Streamlit for that.
@@ -47,8 +46,3 @@ To run the interface on your local:
 cd model-library
 streamlit run interface.py
 ```
-
-It will automatically opens the local host.
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-    
